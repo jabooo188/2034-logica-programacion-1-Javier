@@ -6,7 +6,7 @@ let maxIntentos = 4;
 //let palabraVeces = 'vez'
 //console.log(num1);
 
-//comparacion
+//comparacion del numero
 while (numSecret != num1, numSecret > 1) {
     
     let num1 = parseInt(prompt('Adivina el número entre 1 y 100'));
@@ -31,4 +31,4 @@ while (numSecret != num1, numSecret > 1) {
     
 };
 
-console.log(numSecret);
+//console.log(numSecret);
